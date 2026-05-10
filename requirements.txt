@@ -1,0 +1,4 @@
+python-telegram-bot==21.6
+thefuzz==0.22.1
+python-Levenshtein==0.27.3
+flask==3.1.3
